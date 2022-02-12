@@ -1,0 +1,5 @@
+*.html
+qslab
+out_*
+*.pdf
+*.c
